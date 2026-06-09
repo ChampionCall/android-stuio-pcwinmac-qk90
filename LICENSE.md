@@ -1,4 +1,4 @@
-# 
+# VIP Android Studio scripts para Mac OS | Automático Android Studio scripts para PC Windows. Com mercado de plugins e diff visual — otimizado para máximo desempenho em cada plataforma.
 
 
 
